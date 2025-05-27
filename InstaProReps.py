@@ -29,8 +29,8 @@ reset = "\033[0m"
 org = "\033[1m\033[38;5;208m"
 
 #This tool making about report instagram and been band the acc [ if your user report it ]
-#الاداه آمنه بشكل كامل وتقوم بتبنيد جميع الحسابات .. This tool is safer about any thinks  
-#Done By Team End & Z6in X Ethan
+#        .. This tool is safer about any thinks  
+#Done By Odwy X ZELD3X
 
 
 uid=str(uuid.uuid4())
