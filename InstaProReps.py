@@ -64,7 +64,7 @@ def header():
     console.print(f"""
      ONLY 0DWY
 """,style='bold purple4',justify='left')
-    print("frho ~ baro here")
+    print("SOZ ~ 4r0ux")
     print("")
 
 
@@ -210,4 +210,4 @@ def starter():
 
 header();starter()
 
-#Z6in & Ethan Legend of hell
+#0DWY & ZELD3X Legend of hell
