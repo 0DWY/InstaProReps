@@ -29,8 +29,8 @@ reset = "\033[0m"
 org = "\033[1m\033[38;5;208m"
 
 #This tool making about report instagram and been band the acc [ if your user report it ]
-#        .. This tool is safer about any thinks  
-#Done By Odwy X ZELD3X
+#الاداه آمنه بشكل كامل وتقوم بتبنيد جميع الحسابات .. This tool is safer about any thinks  
+#Done By Team End & Z6in X Ethan
 
 
 uid=str(uuid.uuid4())
@@ -51,20 +51,13 @@ def header():
     os.system("cls" if os.name=='nt' else "clear")
     print(f""" 
  
- Dev -  ________  ________  ________          _________  _______   ________  _____ ______      
-|\   ____\|\   __  \|\_____  \        |\___   ___\\  ___ \ |\   __  \|\   _ \  _   \    
-\ \  \___|\ \  \|\  \\|___/  /|       \|___ \  \_\ \   __/|\ \  \|\  \ \  \\\__\ \  \   
- \ \_____  \ \  \\\  \   /  / /            \ \  \ \ \  \_|/_\ \   __  \ \  \\|__| \  \  
-  \|____|\  \ \  \\\  \ /  /_/__            \ \  \ \ \  \_|\ \ \  \ \  \ \  \    \ \  \ 
-    ____\_\  \ \_______\\________\           \ \__\ \ \_______\ \__\ \__\ \__\    \ \__\
-   |\_________\|_______|\|_______|            \|__|  \|_______|\|__|\|__|\|__|     \|__|
-   \|_________|                                                                         
-                                                                                        
-                                                                                        )
+ Dev - @C55BC , @nd_977
+ - ممنوع تغير الحقوق تغير =فانز   """)
     console.print(f"""
-     ONLY 0DWY
+#Bot Spam coded by - #baro
+#bot sponsored by - @mmo1j
 """,style='bold purple4',justify='left')
-    print("SOZ ~ 4r0ux")
+    print("frho ~ baro here")
     print("")
 
 
@@ -76,45 +69,40 @@ def Report_Instagram(target_id,sessionid,csrftoken):
     print(f"""
 {cyan} _____________________________
 |                             | 
-| {y}~${mag} choose the report- {cyan}         ______     ______     ______        ______   ______     ______     __    __    
-/\  ___\   /\  __ \   /\___  \      /\__  _\ /\  ___\   /\  __ \   /\ "-./  \   
-\ \___  \  \ \ \/\ \  \/_/  /__     \/_/\ \/ \ \  __\   \ \  __ \  \ \ \-./\ \  
- \/\_____\  \ \_____\   /\_____\       \ \_\  \ \_____\  \ \_\ \_\  \ \_\ \ \_\ 
-  \/_____/   \/_____/   \/_____/        \/_/   \/_____/   \/_/\/_/   \/_/  \/_/ 
-                                                                                
+| {y}~${mag} choose the report- اختر البلاغ{cyan}        TEAM N2 Tool
 |_____________________________|
 
 ------------------------------
-| {g}1 ~ {y} - spam {cyan}                  |
+| {g}1 ~ {y}محتوى غير مهم - spam {cyan}                  |
 ------------------------------
-| {g}2 ~ {y} - self {cyan}                  |
+| {g}2 ~ {y}انتحار او ايذاء ذات - self {cyan}                  |
 ------------------------------
-| {g}3 ~ {y} - sale {cyan}                  |
+| {g}3 ~ {y}تجاري - sale {cyan}                  |
 ------------------------------
-| {g}4 ~ {y} - Nudity  {cyan}              |
+| {g}4 ~ {y}اباحي - Nudity  {cyan}              |
 ------------------------------
-| {g}5 ~ {y} - violence {cyan}              |
+| {g}5 ~ {y}عنف - violence {cyan}              |
 ------------------------------
-| {g}6 ~ {y} - hate {cyan}                  |
+| {g}6 ~ {y}خطاب - hate {cyan}                  |
 ------------------------------
-| {g}7 ~ {y} - harassment {cyan}            |
+| {g}7 ~ {y}مضايقه - harassment {cyan}            |
 ------------------------------
-| {g}8 ~ {y} - instagram {cyan}             |
+| {g}8 ~ {y} انتحال انستا - instagram {cyan}             |
 ------------------------------
-| {g}9 ~ {y} - instagram business {cyan}    |
+| {g}9 ~ {y}انتحال انستا بزنس - instagram business {cyan}    |
 ------------------------------
-| {g}10 ~ {y} - copyright {cyan}            |
+| {g}10 ~ {y} رابط حقوق- copyright {cyan}            |
 ------------------------------
-| {g}11 ~ {y} - Impression 3 business{cyan}                  |
+| {g}11 ~ {y}انتحال انستا بزنس خيار ثالث - Impression 3 business{cyan}                  |
 ------------------------------
-| {g}12 ~ {y} - Impression 3 instagram {cyan}                  |
+| {g}12 ~ {y} انتحال انستا خيار ثالث- Impression 3 instagram {cyan}                  |
 ------------------------------
-| {g}13 ~ {y} - Impression 4 business {cyan}                   |
+| {g}13 ~ {y} انتحال خيار رابع- Impression 4 business {cyan}                   |
 ------------------------------
-| {g}14 ~ {y} - Impression 4 instagram {cyan}                  |
+| {g}14 ~ {y}انتحال خيار رابع - Impression 4 instagram {cyan}                  |
 ------------------------------
-| {g}15 ~ {y}  - Violence 1 {cyan}               
-TEAM SOZ Tool
+| {g}15 ~ {y} عنف خيار اول - Violence 1 {cyan}               
+TEAM N2 Tool
 
 ------------------------------
 """)
@@ -210,4 +198,4 @@ def starter():
 
 header();starter()
 
-#0DWY & ZELD3X Legend of hell
+#Z6in & Ethan Legend of hell
